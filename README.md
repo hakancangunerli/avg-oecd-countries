@@ -3,9 +3,14 @@ the most average country in oecd
 
 
 # 6 indicatives for average 
-population - United Nations
+population 
+
 land mass 
+
 gdp per capita 
+
 world development index 
+
 quality of life 
+
 happiness index
