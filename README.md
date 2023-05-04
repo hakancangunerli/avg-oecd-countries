@@ -15,4 +15,4 @@ quality of life
 
 happiness index
 
-In order to obtain crosschecking the validity of the results, three of the resulting data analysis were also compared with the results I obtained from Julia. you can check those at /julia_version
+In order to obtain crosschecking the validity of the results, three of the resulting data analysis were also compared with the results I obtained from Julia. you can check those at /julia_version and in R which can be checked at r_version
